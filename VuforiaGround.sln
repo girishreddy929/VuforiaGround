@@ -5,8 +5,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaGround", "Assembly-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuforiaGround", "Assembly-CSharp-Editor.csproj", "{567F4C7A-19A4-940B-144D-2BCEC28F0CAC}"
 EndProject
-Project("{CA417423-E679-7E74-E482-D39640CE2E66}") = "VuforiaGround", "Assembly-UnityScript-Editor-firstpass.unityproj", "{1DC72771-0001-AEA1-8035-EA68463B364E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +19,6 @@ Global
 		{567F4C7A-19A4-940B-144D-2BCEC28F0CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{567F4C7A-19A4-940B-144D-2BCEC28F0CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{567F4C7A-19A4-940B-144D-2BCEC28F0CAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DC72771-0001-AEA1-8035-EA68463B364E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DC72771-0001-AEA1-8035-EA68463B364E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DC72771-0001-AEA1-8035-EA68463B364E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DC72771-0001-AEA1-8035-EA68463B364E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
